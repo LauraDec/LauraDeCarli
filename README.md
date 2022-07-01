@@ -1,4 +1,6 @@
-
+- 🐬 Hi, I’m Laura
+- 👀 I’m interested in writing stories and learning to make videogames
+- 🌱 I’m currently learning game design
 
 <!---
 LauraDec/LauraDec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
