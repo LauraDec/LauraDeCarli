@@ -11,10 +11,10 @@
 - Italian (mother tongue)
 - English (C1)
 
-## Contact:
+## Contact
 - 📧 lauradecarli.public@gmail.com
 
-## Post Scriptum:
+## Post Scriptum
 - 🏳️‍🌈 If you need to refer to me in the third person, please use the following grammatical genders:
    - Italiano: lei/la/le (genere grammeticale femminile)
    - English: they/them (neutral grammatical gender)
