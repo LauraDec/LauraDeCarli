@@ -17,7 +17,7 @@
 ## Post Scriptum
 - 🏳️‍🌈 If you need to refer to me in the third person, please use the following grammatical genders:
    - Italiano: lei/la/le (genere grammeticale femminile)
-   - English: they/them (neutral grammatical gender)
+   - English: [they/them (neutral grammatical gender)](https://en.wikipedia.org/wiki/Singular_they)
 
 <!---
 LauraDec/LauraDec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
