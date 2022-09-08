@@ -7,6 +7,9 @@
 ## Academic Writing
 - 📚 Bachelor's Thesis: [_The player as co-narrator: This War of Mine, a case study_](https://digger.iulm.it/permalink/39IUL_INST/1vu6krd/alma992565045304206)
 
+## Videogame Projects
+- 👾 Group Project with [QizueTeam](https://github.com/Qizue-Team) made for [DBGA's online course in Game Design](https://dbgameacademy.it/online-blended-game-design/): [_Goldash_ (Work in Progress)](https://github.com/Qizue-Team/Goldash)
+
 ## Languages
 - Italian (mother tongue)
 - English (C1)
