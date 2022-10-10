@@ -9,7 +9,7 @@
 
 ## Videogame Projects
 - 👾 Group Project with [QizueTeam](https://github.com/Qizue-Team) made for DBGA's online course in Game Design: [_Goldash_ (Work in Progress)](https://github.com/Qizue-Team/Goldash)
-- 🎃 A little game made for the [2022 edition of the One Minute Game Jam](https://itch.io/jam/one-minute-game-jam-8): [_Pumpking_ (Work in Progress)](https://github.com/OneMinuteJamTeam/One-Minute-Game)
+- 🎃 A little game made for the [2022 edition of the One Minute Game Jam](https://itch.io/jam/one-minute-game-jam-8): [_Pumpking_](https://acemoisan.itch.io/pumpking)
 
 ## Languages
 - Italian (mother tongue)
