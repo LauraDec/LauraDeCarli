@@ -8,7 +8,7 @@
 - 📚 Bachelor's Thesis: [_The player as co-narrator: This War of Mine, a case study_](https://digger.iulm.it/permalink/39IUL_INST/1vu6krd/alma992565045304206)
 
 ## Videogame Projects
-- 👾 Group Project with [QizueTeam](https://github.com/Qizue-Team) made for DBGA's online course in Game Design: [_Goldash_ (Work in Progress)](https://github.com/Qizue-Team/Goldash)
+- 👾 Group Project with [QizueTeam](https://github.com/Qizue-Team) made for DBGA's online course in Game Design: [_Goldash_](https://github.com/Qizue-Team/Goldash)
 - 🎃 A little game made for the [2022 edition of the One Minute Game Jam](https://itch.io/jam/one-minute-game-jam-8): [_Pumpking_](https://acemoisan.itch.io/pumpking)
 
 ## Languages
