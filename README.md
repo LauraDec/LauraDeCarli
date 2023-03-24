@@ -14,7 +14,7 @@
 
 ## Languages
 - Italian (mother tongue)
-- English (C1)
+- English (C2)
 
 ## Contact
 - 📧 lauradecarli.public@gmail.com
