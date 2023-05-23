@@ -11,7 +11,6 @@
 ## Videogame Projects
 - 👾 Group Project with [QizueTeam](https://github.com/Qizue-Team) made for DBGA's online course in Game Design: [_Goldash_](https://github.com/Qizue-Team/Goldash)
 - 🎃 A little game made for the [2022 edition of the One Minute Game Jam](https://itch.io/jam/one-minute-game-jam-8): [_Pumpking!_](https://acemoisan.itch.io/pumpking)
-- 🎲 Currently working on a [game of dices and robots](https://github.com/Dozing-Coyote-Team/Game-of-Dices-and-Robots) with [Dozing Coyote Team](https://github.com/Dozing-Coyote-Team).
 
 ## Languages
 - Italian (mother tongue)
