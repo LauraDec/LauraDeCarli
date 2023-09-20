@@ -4,7 +4,7 @@
 - 📓 Digital Portfolio: https://www.lauradecarli.com/
 - 🎓 Bachelor of [Communication, Media and Advertising](https://www.iulm.it/en/offerta-formativa/corsi-di-lauree-triennali/comunicazione-media-pubblicita/comunicazione-media-pubblicita) at [IULM University of Milan](https://www.iulm.it/en/iulm#chi-siamo)
 - 📜 Online course in Game Design at [Digital Bros Game Academy Online Blended](https://dbgameacademy.it/online-blended-game-design/)
-- 🎓 I've just started the [Master's programme in Games (Design Track) at the IT University of Copenhagen](https://en.itu.dk/Programmes/MSc-Programmes/Games)
+- 🎓 I've started the [Master's programme in Games (Design Track) at the IT University of Copenhagen](https://en.itu.dk/Programmes/MSc-Programmes/Games)
 
 ## Academic Writing
 - 📚 Bachelor's Thesis: [_The player as co-narrator: This War of Mine, a case study_](https://digger.iulm.it/permalink/39IUL_INST/1vu6krd/alma992565045304206)
